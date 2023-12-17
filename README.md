@@ -3,3 +3,11 @@
 qmk firmwareのリポジトリに上書きする感じで使ってください。
 
 https://github.com/qmk/qmk_firmware
+
+<br>
+
+## Tightyl
+scadやstlはこちら。
+
+https://github.com/dannyso16/dactyl-manuform-tight
+
